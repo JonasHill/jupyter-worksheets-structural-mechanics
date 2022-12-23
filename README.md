@@ -1,0 +1,1 @@
+# jupyter-worksheets-structural-mechanics
